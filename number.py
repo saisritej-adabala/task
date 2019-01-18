@@ -1,3 +1,3 @@
  n=input()
  print(n)
- print("yes")
+ print("yesorno")
